@@ -60,7 +60,7 @@
     "numeral": "^2.0.6",
     "transliteration": "^2.3.5",
     "ts-jest": "^29.2.5",
-    "tsx": "^4.6.2",
+    "tsx": "^4.19.4",
     "valid-url": "^1.0.9"
   }
 }
